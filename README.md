@@ -77,4 +77,4 @@ In the long term, the goal is to make this setup hypervisor-agnostic, with suppo
 
 ## License
 
-The Ninja Ghost (TNG)
+The Ninja Ghost (TNG) 🥷
